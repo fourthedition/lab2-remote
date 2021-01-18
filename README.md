@@ -5,8 +5,8 @@
 **StudentID** : 61070220
 **Name** : Sirawit Bosri
 
-> *King mongkut's institute of technology ladkrabang*
+> [*King mongkut's institute of technology ladkrabang*](https://www.kmitl.ac.th)
 
 ```
-print("hello world")
+print("Hello Ladkrabang")
 ```
